@@ -20,7 +20,8 @@ da API do github podendo consumir o JSON. Quando buscar um usuário que não exi
 
 #
 
-!file:///C:/Users/Acer/Pictures/fotodesafio.jpg
+<img width="960" alt="Captura de tela 2023-10-12 112305" src="https://github.com/emerson100koko/challenge-github-api/assets/105220272/61393e0f-3339-4005-bbc7-a3661fafab3b">
+
 
 
 # Tecnologias utilizadas

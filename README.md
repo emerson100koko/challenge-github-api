@@ -20,7 +20,7 @@ da API do github podendo consumir o JSON. Quando buscar um usuário que não exi
 
 #
 
-![image](https://user-images.githubusercontent.com/88008441/220163342-2373075f-fc35-4aa7-bf44-2df3d21ec449.png)
+![image](file:///C:/Users/Acer/Pictures/fotodesafio.jpg)
 
 
 # Tecnologias utilizadas

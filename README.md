@@ -20,7 +20,7 @@ da API do github podendo consumir o JSON. Quando buscar um usuário que não exi
 
 #
 
-![image](file:///C:/Users/Acer/Pictures/fotodesafio.jpg)
+!file:///C:/Users/Acer/Pictures/fotodesafio.jpg
 
 
 # Tecnologias utilizadas

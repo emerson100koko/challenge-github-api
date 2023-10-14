@@ -38,7 +38,7 @@ da API do github podendo consumir o JSON. Quando buscar um usuário que não exi
 
 
 # clonar repositório
-git clone [https://github.com/PauloSergioo/Desafio-DSFilter](https://github.com/emerson100koko/challenge-github-api)
+git clone https://github.com/emerson100koko/challenge-github-api
 
 # instalar dependências
 yarn install
